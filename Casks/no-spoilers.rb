@@ -1,6 +1,6 @@
 cask "no-spoilers" do
-  version "1.0.1"
-  sha256 "2c516305e4288f1a197ba69e77be2de7a3f8e6f01146bc17a6ed487688cd50c9"
+  version "1.0.2"
+  sha256 "194934d0debc74cee06fe15ca724c0aa1e8ef17f82c5d2d808da8bd67fe7dcd7"
 
   url "https://github.com/npomfret/no-spoilers/releases/download/v#{version}/NoSpoilers-#{version}.zip"
   name "No Spoilers"
